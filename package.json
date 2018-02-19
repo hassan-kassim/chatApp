@@ -1,0 +1,36 @@
+{
+  "name": "chatting",
+  "version": "1.0.0",
+  "description": "chatting form different domain",
+  "main": "server.js",
+  "dependencies": {
+        "express": "~4.0.0",
+        "mongoose": "~3.6.13",
+        "body-parser": "~1.0.1", 
+        "angular-mocks": "^1.6.6",
+    "jasmine-core": "^2.8.0",
+    "karma-cli": "^1.0.1"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.0",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-ie-launcher": "^1.0.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "phantomjs": "^2.1.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassan-kassim/chatApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassan-kassim/chatApp/issues"
+  },
+  "homepage": "https://github.com/hassan-kassim/chatApp#readme"
+}
